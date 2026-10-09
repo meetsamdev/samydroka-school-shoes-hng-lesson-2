@@ -1,0 +1,15 @@
+{
+  "name": "samydroka-school-shoes-shop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HNG Lesson 2 functional e-commerce shop with Supabase, Google Auth and Mailgun.",
+  "scripts": {
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^63.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.6"
+  }
+}
