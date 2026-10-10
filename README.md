@@ -16,7 +16,7 @@ A functional e-commerce shop built to satisfy the Lesson 2 integration requireme
 ## Important assumption
 The shop concept is **Samydroka School Shoes**, based on the user's sibling's footwear business and its current focus on primary/secondary school shoes. Product names/prices are demo catalog data and can be replaced before submission.
 
-## ## 1. Local setup
+## 1. Local setup
 
 ### Requirements
 - Node.js 22 or later
